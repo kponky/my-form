@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form-container {
+    background: rgb(255, 82, 13);
+    height: 100vh;
+}
+
+.text {
+    color: white;
+    border: 3px solid white;
+    height: 70vh;
+    width: 70vh;
+    justify-content: center;
+    margin-top: 50px;
+    text-align: center;
+    border: none;
+    }
+
+.fa-chevron-down {
+    font-weight: bold;
+    font-size: 100px;
+    margin-top: 70px;
+    padding: 20px;
+}
+
+.btn-about {
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    width: 120px;
+    border: none;
+    font-size: 15px;
+    margin-top: 20px;
+   
+}
+
+.btn-register {
+    background-color: rgb(255, 82, 13);
+    padding: 15px;
+    border-radius: 20px;
+    width: 120px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    margin-left: 310px;
+    margin-top: 20px;
+
+}
+
+.forms {
+    height: 460px;
+    width: 500px;
+    background-color: antiquewhite;
+    margin-top: 30px;
+    padding-top: 40px;
+    font-size: 20px;
+    border-bottom-left-radius: 100px;
+    border-top-left-radius: 100px;
+
+}
+.text1{
+    padding: 20px;
+    font-family: Arial;
+
+
+}
+p.sub{
+    padding: 20px;
+    font-weight: bold;
+    font-family: Arial;
+
+
+}
+.text2 {
+    text-align: center;
+    color: black;
+    font-family: Arial;
+}
+
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.form1 {
+    padding: 30px;
+    width: 100px;
+}
+
+input {
+    padding: 10px;
+    width: 400px;
+    font-size: 20px;
+    margin: 10px;
+}
